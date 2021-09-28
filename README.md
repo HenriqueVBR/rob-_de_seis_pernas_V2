@@ -10,5 +10,14 @@ O rádio usa as placas de 433MHz usando a biblioteca ( rc-switch-master ).
 
 Para editar a montagem no FreeCAD tem que ir em ->ferramentas ->gestor de add-ons _>A2plus ->instalar, vai abilitar a barra de ferramenta A2plus V0.4.53.
 
+canal Mecatudo
+https://www.youtube.com/channel/UCtdS4xoZ9B4aGElnJPZJT2A
+
+robô de seis pernas V2 pt1
+https://www.youtube.com/watch?v=k9fFkApezb0
+
+robô de seis pernas V2 pt2
+https://www.youtube.com/watch?v=EHtY003iD_Q
+
 
 
